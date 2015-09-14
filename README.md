@@ -8,4 +8,4 @@
 
 ## サーバーで考慮すべき点
 
-## Turbolinks
+## TurbolinksA

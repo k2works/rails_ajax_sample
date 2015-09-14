@@ -1,4 +1,11 @@
 Rails.application.routes.draw do
+
+  resources :users
+
+  get 'users/index'
+
+  get 'users/create'
+
   resources :articles
 
   get 'modest/index'
